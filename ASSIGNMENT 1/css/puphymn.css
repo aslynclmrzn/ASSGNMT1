@@ -1,0 +1,40 @@
+/* Submitted by: Asley Nicole Marzan */
+body{
+    margin: 0;  
+    padding: 0;
+    line-height: 200px;
+}
+
+a{
+    text-decoration: solid;
+}
+
+div.top{
+    width: 100%;
+    height: 170px;
+}
+
+div.title h1{
+    margin-left: 21.4cm;
+    margin-top: -1.3cm;
+    font-size: 80px;
+    color: rgb(221, 221, 221);
+    font-family:'Trebuchet MS';
+    position: fixed;
+}
+
+#audio{
+    position: fixed;
+    top:120px;
+    right: 4px;
+    bottom: 2px;
+    left:52%;
+}
+
+.lyrics h1{
+    line-height: normal;
+    font-size: 25px;
+    font-family:Times;
+    color: rgb(255, 254, 254);
+    margin-left: 35%;
+}
